@@ -1,0 +1,1 @@
+JSON2YAML was written as a proof of concept to show how easily Ruby can convert JSON encapsulated data to YAML with only a few lines of code.
